@@ -1,0 +1,2 @@
+# pseudo
+Pseudocode with fantasies
